@@ -1,31 +1,49 @@
-# Hi there! I'm Bhumika 👋
-I’m a student with a passion for cybersecurity and IT.
-My studies and hands-on experiences have equipped me with a broad range of skills in both cybersecurity and information technology.
-I am particularly interested in open-source intelligence (OSINT) and network security.
+Hi there! I'm Bhumika 👋
+Aspiring Data Analyst with a passion for turning raw data into meaningful insights.
 
-## 🔍 What I’m Working On
-- **Cybersecurity Projects**: Developing tools and scripts to enhance network security and threat detection.
-- **OSINT Research**: Utilizing advanced search techniques and OSINT tools (like Maltego, Shodan, and Recon-NG) to gather and analyze data for investigative purposes.
-- **Network Security**: Applying my knowledge of tools like Wireshark and Nmap to understand and protect IT networks.
-- **Python Scripting**: Working on basic Python scripts to automate tasks and analyze data.
+With a background in Computer Applications and hands-on experience in tools and techniques related to data analysis, I’m deeply interested in solving real-world problems through data. I love exploring datasets, identifying patterns, and using data-driven insights to support smarter decisions.
 
- ## 🛠️ Skills and Expertise
- - **Cybersecurity & IT Laws**: Good knowledge of cybersecurity and IT regulations.
-- **OSINT**: Experienced in social media analysis, geolocation, and public records for investigative purposes.
-- **Network Security Tools**: Proficient with Wireshark and Nmap for network analysis and security.
-- **Operating Systems**: Knowledgeable in both Windows and Linux environments.
-- **Python**: Basic scripting skills for automation and data processing.
-- **Advanced Search Techniques**: Skilled in using Boolean operators and advanced Google searches.
-- **Data Analysis**: Adept at data mining, analysis, and threat intelligence.
-- **Privacy Laws & Ethical Considerations**: Understanding of privacy laws and ethical issues in cybersecurity.
-- **Report Writing**: Experienced in synthesizing information and writing detailed reports.
-- **Critical Thinking & Problem-Solving**: Strong ability to analyze and solve complex problems.
+📊 What I’m Working On
+Data Analytics Projects: Working on real-world datasets to perform exploratory data analysis (EDA), data cleaning, and visualization.
 
-## 📚 Learning Goals
-- **Expand Knowledge**: Continuously learning about the latest tools and techniques in cybersecurity and OSINT.
-- **Enhance Skills**: Improving Python programming skills and advanced data analysis techniques.
-- **Practical Experience**: Gaining real-world experience through projects and collaborations.
+Python for Data: Writing Python scripts using libraries like Pandas, NumPy, and Matplotlib for data manipulation and visualization.
 
-## 📫 Get in Touch
-- **LinkedIn**:(www.linkedin.com/in/bhumika-n-889b1a24a) 
-- **Email**: (ig.bhumi01@gmail.com)
+SQL Practice: Enhancing my SQL skills by working on queries to extract, filter, and analyze data from relational databases.
+
+Excel Proficiency: Leveraging Excel for spreadsheet analysis, pivot tables, and dashboards.
+
+Learning BI Tools: Exploring Power BI and Tableau for interactive dashboard creation and business intelligence reporting.
+
+🛠️ Skills and Expertise
+Data Cleaning & Preparation: Handling messy data and transforming it into clean, usable formats.
+
+Exploratory Data Analysis (EDA): Uncovering trends, patterns, and outliers using statistical and visual methods.
+
+Python for Data Analysis: Proficient with Pandas, NumPy, Matplotlib, and Seaborn.
+
+SQL: Writing complex queries for data retrieval and aggregation.
+
+Excel: Skilled in formulas, functions, charts, and pivot tables.
+
+Data Visualization: Creating clear and informative visualizations for better storytelling.
+
+Problem-Solving & Critical Thinking: Strong analytical mindset with a logical approach to solving challenges.
+
+Report Writing: Documenting insights and presenting findings clearly and concisely.
+
+Statistics Fundamentals: Understanding descriptive stats, distributions, and correlations.
+
+📚 Learning Goals
+📈 Master Power BI and Tableau for professional-level dashboards.
+
+🤖 Explore data-driven decision making and predictive analytics.
+
+🔁 Learn Version Control with Git & GitHub to collaborate on data projects.
+
+📊 Work on end-to-end analytics projects that simulate business problems.
+
+📫 Get in Touch
+LinkedIn: www.linkedin.com/in/bhumika-n-889b1a24a
+
+Email: ig.bhumi01@gmail.com
+
